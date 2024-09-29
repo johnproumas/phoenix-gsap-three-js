@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+
+.trigger {
+  display: flex;
+  min-height: 5vh;
+}
